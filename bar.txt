@@ -1,3 +1,6 @@
 This is
 another file
 containing text.
+
+Text files are
+very useful.
